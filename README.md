@@ -24,7 +24,8 @@ I denna modul kommer vi få en bättre förståelse för hur vi kan skriva effek
 
 **Förinspelat**
 
-* 01 - []()
+* 01 - [Promptstrategier](https://vimeo.com/1126228028/033cdc0830?share=copy)
+* 02 - [Prompt templates](https://vimeo.com/1126226713/7fb22b206d?share=copy)
 
 
 ### Lektionsrepon
@@ -40,3 +41,5 @@ I denna modul kommer vi få en bättre förståelse för hur vi kan skriva effek
 * [Course Elements of AI (steg 1-3 relevanta för er)](https://course.elementsofai.com/)
 
 ### Övningar 
+
+* [Kaffechattbot](https://gist.github.com/zocom-christoffer-wallenberg/e75e3da52dcecadd11a01444ec62eb3e)
