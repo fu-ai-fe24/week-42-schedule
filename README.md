@@ -32,7 +32,7 @@ I denna modul kommer vi få en bättre förståelse för hur vi kan skriva effek
 
 ### Lektionsrepon
 
-* [14 okt]()
+* [14 okt](https://github.com/FE24-Utveckling-av-AI-drivna-appar/live-14-oktober)
 * [16 okt]()
 
 ### Filmer
