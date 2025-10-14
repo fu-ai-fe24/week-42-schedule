@@ -22,6 +22,8 @@ I denna modul kommer vi få en bättre förståelse för hur vi kan skriva effek
 
 **LIVE**
 
+* [Live med Christoffer, 14 okt](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Distans/EeRSE0L8B81DmtxfwmYm4M4BopbTzWDPGd3vzahGAgNH_g?e=7OEB8Y)
+
 **Förinspelat**
 
 * 01 - [Promptstrategier](https://vimeo.com/1126228028/033cdc0830?share=copy)
