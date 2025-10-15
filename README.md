@@ -23,6 +23,7 @@ I denna modul kommer vi få en bättre förståelse för hur vi kan skriva effek
 **LIVE**
 
 * [Live med Christoffer, 14 okt](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Distans/EeRSE0L8B81DmtxfwmYm4M4BopbTzWDPGd3vzahGAgNH_g?e=7OEB8Y)
+* [Live med Christoffer, 15 okt](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Distans/ET41L2vd_vZLjBQuwNaC2wIBH32VXHmx1vlohsprSrc-og?e=cQ3308)
 
 **Förinspelat**
 
@@ -33,7 +34,7 @@ I denna modul kommer vi få en bättre förståelse för hur vi kan skriva effek
 ### Lektionsrepon
 
 * [14 okt](https://github.com/FE24-Utveckling-av-AI-drivna-appar/live-14-oktober)
-* [16 okt]()
+* [15 okt](https://github.com/FE24-Utveckling-av-AI-drivna-appar/live-15-oktober)
 
 ### Filmer
 
