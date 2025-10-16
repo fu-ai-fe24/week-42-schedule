@@ -35,6 +35,7 @@ I denna modul kommer vi få en bättre förståelse för hur vi kan skriva effek
 
 * [14 okt](https://github.com/FE24-Utveckling-av-AI-drivna-appar/live-14-oktober)
 * [15 okt](https://github.com/FE24-Utveckling-av-AI-drivna-appar/live-15-oktober)
+* [16 okt](https://github.com/fu-ai-fe24/week-42-lecture-16-okt)
 
 ### Filmer
 
